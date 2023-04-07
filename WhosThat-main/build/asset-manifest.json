@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e23d709.css",
+    "main.js": "/static/js/main.01eba74c.js",
+    "static/media/pikachu.png": "/static/media/pikachu.68bb4f34a251b469fa83.png",
+    "static/media/whosthatpokemon.png": "/static/media/whosthatpokemon.49002ec85a1a4a43353f.png",
+    "index.html": "/index.html",
+    "static/media/ic_replay.svg": "/static/media/ic_replay.15f09b59811b482aaa2a786e09f134c6.svg",
+    "static/media/ic_home.svg": "/static/media/ic_home.770aaa5c363b130466060450775405fb.svg",
+    "main.6e23d709.css.map": "/static/css/main.6e23d709.css.map",
+    "main.01eba74c.js.map": "/static/js/main.01eba74c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e23d709.css",
+    "static/js/main.01eba74c.js"
+  ]
+}
